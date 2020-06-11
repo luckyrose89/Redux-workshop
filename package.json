@@ -6,9 +6,11 @@
   "main": "src/index.js",
   "dependencies": {
     "@babel/plugin-proposal-decorators": "7.4.4",
+    "global": "^4.4.0",
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.4",
     "node-sass": "^4.12.0",
+    "npm": "^6.14.5",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-redux": "^7.0.3",
